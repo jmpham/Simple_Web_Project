@@ -1,0 +1,67 @@
+.navbar{
+ height: 75px;
+ color: white;
+}
+
+.btn {
+  margin: 7px 5px;
+  border: 5px solid black;
+}
+
+.mainbody{
+  background-color: #050505;
+}
+
+.Banner{
+  border: 5px solid white;
+  
+  margin: 200px auto;
+  width: 50%;
+  text-align: center;
+  color: white;
+}
+.mainbody{
+  
+}
+
+.Banner_bg{
+  background-image: url("http://hd-desktop.net/wp-content/uploads/2016/03/Apple-iMac-and-MacBook-Retina-Display-Wallpaper-5K-Smoky-Mountains-5120x2880.jpg");
+  background-size: cover;
+  height: 600px;
+  width: 100%;
+  padding:1px;
+}
+.wrapper {
+  border: 5px solid black;
+  width: 75%;
+  margin: 10px auto 0px auto;
+  color: gray;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+
+.banner-bottom{
+  
+  background-color: #050505;
+  height: 100px;
+  width: 100%;
+  justify-content: flex-end;  
+  color: white;
+}
+
+li{
+  display: inline;
+  padding: 10px; 
+}
+h2{
+  display:inline;
+}
+ul{
+  justify-content: flex-end;
+ position: relative;
+ top: 10px; 
+ margin-left: 170px;
+}
+
